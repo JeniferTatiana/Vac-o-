@@ -19,3 +19,5 @@ En este cursos se aprenderá sobre el uso de herramientas informáticas para el 
 - Abigail Galarza
 
 **Estudiantes**
+Jenifer Tatiana Morocho Sáenz
+
